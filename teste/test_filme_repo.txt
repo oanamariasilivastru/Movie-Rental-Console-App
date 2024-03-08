@@ -1,0 +1,11 @@
+102;Arrow;este un film;aciune
+103;Modern Family;este un film;SF
+104;Squid Game;este un film;aventura
+105;See;este un film;mister
+106;Atypical;este un film;drama
+108;The Star;este un film;romantic
+109;Now you see me;este un film;mister
+110;The Friend;este un film;comedie
+111;The Crown;este un film despre o dinastie;actiune
+1;See;este un film de mister;mister
+123;The X-Files;este un film de actiune;actiune

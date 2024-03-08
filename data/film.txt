@@ -1,0 +1,10 @@
+101;Squid Game;este un film;mister
+102;The Moon;este un film;fantastic
+104;Modern Family;este un film;relaxant
+106;Atypical;este un film;drama
+107;The X-Files;este un film;actiune
+108;Now I Meet You;este un film;drama
+109;The Friend;este un film;comedie
+300;the asjsjs;jsjjjwdjwjjdjwdwjjwdj;jdwsdjw
+579;The Lake;este un film;horror
+777;jfjdsjsjjsj;djwjsdjswjdsjqsjqjjsjq;dwjwdjwjdjw
